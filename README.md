@@ -25,5 +25,4 @@ Este projeto simula um sensor de temperatura/umidade utilizando um **ESP32** (vi
 3.  **No Dashboard:**
     *   Crie um componente de **Chart** e configure o *Auto Refresh* para ver os dados em tempo real.
 
-## 📸 Screenshots
-*(Dica: Coloque prints do seu gráfico e do circuito aqui)*
+
